@@ -1,0 +1,18 @@
+-Pré-referências:
+.Inserção de pontos com existências de resíduos através do software
+.Sistema de rotas automáticas através de um API de geolocalização
+.Software para usuários escrever pontos encontrados com lixos para serem coletados
+
+-Pós-referências:
+
+Referência: meuresiduo.com
+.Registro de Coletas via app
+.Controle de resíduos para administrar resíduos da empresa e dos clientes
+
+Referência: inlog.com.br
+.Sistema de gerenciamento do caminhão de coleta
+.Sistema de planejamento de rotas
+
+Nome: Gabriel Borowiec Marciano
+RM: 81779
+
